@@ -12,6 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://jayeshr14.github.io/Awesome-React-App/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
